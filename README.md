@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently working on MERN Stack
 
 <!--
 **navin050/navin050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
